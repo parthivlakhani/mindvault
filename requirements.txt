@@ -1,0 +1,9 @@
+streamlit>=1.24.0
+python-dotenv
+PyPDF2
+langchain
+bcrypt
+pymongo
+redis
+requests
+sentence-transformers
